@@ -33,11 +33,11 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-
+![](https://media.giphy.com/media/e4cC1z8tzLaWTeTdS1/giphy.gif)
 # 📖 [ToDoLIsts] <a name="about-project"></a>
 
 
-> The react Project for To Do Lists
+> The react Project for To Do Lists for your daily nesseity.
 
 ## 🛠 Built With <a name="built-with"></a>
 
