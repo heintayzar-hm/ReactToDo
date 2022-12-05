@@ -55,7 +55,7 @@ const TodoContainer = () => {
       todos.map((todo) => {
         if (todo.id === id) {
           const copy = todo;
-          copy.id = id;
+          copy.title = updatedTitle;
           return copy;
         }
         return todo;
